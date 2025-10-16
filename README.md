@@ -1,4 +1,3 @@
-<img width="1443" height="733" alt="Screenshot 2025-10-16 121329" src="https://github.com/user-attachments/assets/1b5de954-ccde-4beb-957a-eac172a8353b" /># Project Responsive Web Design using Bootstrap
 ## Date:16-10-2025
 
 ## AIM:
